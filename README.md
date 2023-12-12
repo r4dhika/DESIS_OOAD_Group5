@@ -30,7 +30,7 @@ This C++ program implements a simple event coordination system where participant
 Compile the code and run the executable:
 
 ```bash
-g++ -o main main.cpp
+g++ -o fest fest.cpp
 ./main
 ```
 
