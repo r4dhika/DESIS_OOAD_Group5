@@ -31,7 +31,7 @@ Compile the code and run the executable:
 
 ```bash
 g++ -o fest fest.cpp
-./main
+./fest
 ```
 
 Follow the on-screen instructions to interact with the event coordination system.
