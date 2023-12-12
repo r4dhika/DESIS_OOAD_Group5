@@ -9,6 +9,8 @@ This C++ program implements a simple event coordination system where participant
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Classes](#classes)
+- [UML Class Diagram](#uml-class-diagram)
+- [UML Sequence Diagram](#uml-sequence-diagram)
 - [contributions](#contributions)
 
 ## Getting Started
